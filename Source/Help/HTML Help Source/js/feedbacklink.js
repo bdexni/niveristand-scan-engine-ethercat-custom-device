@@ -103,7 +103,7 @@ function BuildFeedbackURL() {
    var VersionDNA=vsversion;
    
 //   var link_string = handlerURL + "&" + ProductDNA + "&" + "version="+URLencode(VersionDNA) + "&" + "file="+URLencode(FileName);
-   var link_string = "https://github.com/ni/niveristand-scan-engine-ethercat-custom-device/issues";
+   var link_string = "https://decibel.ni.com/content/groups/ni-veristand-add-ons?view=discussions";
    return link_string;
 }
 
