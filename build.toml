@@ -4,14 +4,14 @@ archive_location = '\\nirvana\Measurements\VeriStandAddons\scan_engine_custom_de
 
 [dependencies.niveristand-scan-engine-fxp-libraries]
 libraries = ['FXP.llb']
-copy_location = 'Custom Device Source'
+copy_location = 'Source'
 
 [dependencies.niveristand-scan-engine-module-libraries]
 libraries = ['Modules.lvlibp', 'NI ECAT Remote IO.llb']
-copy_location = 'Custom Device Source'
+copy_location = 'Source'
 
 [projects.cd]
-path = 'Custom Device Source\Scan Engine.lvproj'
+path = 'Source\Scan Engine.lvproj'
 
 [[build.steps]]
 name = 'Configuration Library'
