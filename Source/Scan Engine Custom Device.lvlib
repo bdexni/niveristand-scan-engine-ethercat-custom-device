@@ -35,10 +35,8 @@
 	<Property Name="SaveStatePeriod" Type="UInt">0</Property>
 	<Property Name="Serialized ACL" Type="Bin">&amp;Q#!!!!!!!)!"1!&amp;!!!A1%!!!@````]!!".V&lt;H.J:WZF:#"C?82F)'&amp;S=G&amp;Z!!%!!1!!!!A)!!!!#!!!!!!!!!!</Property>
 	<Property Name="Use Data Logging Database" Type="Bool">true</Property>
-	<Item Name="Docs" Type="Folder">
-		<Item Name="Scan properties and methods.vi" Type="VI" URL="../Docs/Scan properties and methods.vi"/>
-		<Item Name="readme.txt" Type="Document" URL="../Docs/readme.txt"/>
-		<Item Name="scanengineveristand-errors.txt" Type="Document" URL="../Docs/scanengineveristand-errors.txt"/>
+	<Item Name="Errors" Type="Folder">
+		<Item Name="scanengineveristand-errors.txt" Type="Document" URL="../Errors/scanengineveristand-errors.txt"/>
 	</Item>
 	<Item Name="Glyphs" Type="Folder">
 		<Item Name="ECAT_CRIOSlave.png" Type="Document" URL="../Glyphs/ECAT_CRIOSlave.png"/>
